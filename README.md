@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Alex Brown Sobinec 👋
 
-<!--
-**sobinec/Sobinec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game developer and programmer deeply passionate about creating engaging gaming experiences.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Game Development**: Proficient in Godot Engine, with a focus on creating simple prototypes.
+- **Programming Languages**: Fluent in golang and Ruby. Learning rust.
+- **Frameworks**: Experienced with Vue.js for web development.
+
+## 📚 Learning Resources
+
+I'm always looking to improve my skills and knowledge. If you have any recommendations or resources, feel free to share!
+
+---
+
+👨‍💻 Happy coding!
